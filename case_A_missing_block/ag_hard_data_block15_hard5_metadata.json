@@ -1,0 +1,14 @@
+{
+  "seed": 20260917,
+  "hard_fraction_within_block": 0.05,
+  "grid_rows": 39,
+  "grid_cols": 92,
+  "total_pixels": 3588,
+  "block_pixels": 546,
+  "hard_pixels": 27,
+  "target_pixels": 519,
+  "hard_fraction_actual_within_block": 0.04945054945054945,
+  "target_fraction_actual_within_block": 0.9505494505494505,
+  "hard_fraction_actual_whole_grid": 0.007525083612040134,
+  "target_fraction_actual_whole_grid": 0.14464882943143811
+}

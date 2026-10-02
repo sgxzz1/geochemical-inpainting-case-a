@@ -1,0 +1,32 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and cached training tensors
+*.pt
+/training_samples/**/*.npz
+
+# Generated experiment outputs
+/dual_gate_dual_prior_model/eval/
+/dual_gate_dual_prior_model/diagnostics/
+/dual_gate_dual_prior_model/history.json
+/no_prior_direct_prediction/eval/
+/no_prior_direct_prediction/diagnostics/
+/no_prior_direct_prediction/history.json
+/no_prior_direct_prediction/run_metadata.json
+/no_prior_generation/eval_50_samples/
+/no_prior_generation/history.json
+/no_prior_generation/run_metadata.json
+
+# Local reruns
+**/rerun_output/
+/local_runs/

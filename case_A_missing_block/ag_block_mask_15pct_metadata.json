@@ -1,0 +1,17 @@
+{
+  "seed": 20260916,
+  "target_fraction": 0.15,
+  "grid_rows": 39,
+  "grid_cols": 92,
+  "total_pixels": 3588,
+  "masked_pixels": 546,
+  "actual_fraction": 0.15217391304347827,
+  "row_start_inclusive": 2,
+  "row_end_exclusive": 23,
+  "col_start_inclusive": 48,
+  "col_end_exclusive": 74,
+  "cy_min": 3968000.0,
+  "cy_max": 3978000.0,
+  "cx_min": 456000.0,
+  "cx_max": 468500.0
+}
